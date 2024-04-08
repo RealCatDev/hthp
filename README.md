@@ -1,4 +1,4 @@
-# **ht**ml to p**hp**
+# HTml to pHP
 
 hthp is a program made for converting html files into php files. It is a simple C program no one asked for but everyone needed. With this magic 37 lines of code you can turn your boring html into magical php!
 
